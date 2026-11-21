@@ -11,3 +11,5 @@
 .hero-experience>.experience-text{font-size:inherit;color:inherit;line-height:1.8}
 
 .hero-experience.hero-area{margin-top:8px}
+
+.service-help-contact small{text-align:center;display:block;font-size:16px;font-weight:500;line-height:1.5;margin-top:3px;color:var(--navy)}
